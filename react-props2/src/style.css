@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Sofia");
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+ 
+  
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.card{
+  width: 18rem;
+  display: flex !important;
+  margin: 10px;
+}
+.card img{
+  height: 180px;
+}
+.middle{
+  display: flex;
+}
+* {
+  font-family: sans-serif;
+}
+ul li {
+  font-size: 22px;
+  font-family: 'Sofia';
+}
+.my-div{
+  padding: 50px;
+  background-image: url('./images/minion5.jpeg');
+  background-repeat: no-repeat;
+  background-size: 300px;
+  background-position: top right;
+}
